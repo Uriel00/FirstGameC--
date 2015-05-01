@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429839482 source:d:\programming,design and modeling\c and c++\c++\first 1d game humans vs skeletons\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+
